@@ -1,0 +1,446 @@
+.insight {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.insight .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 2400px;
+  position: relative;
+}
+
+.insight .frame {
+  position: absolute;
+  width: 1440px;
+  height: 118px;
+  top: 0;
+  left: 0;
+  background-color: #1e5048;
+}
+
+.insight .logo {
+  position: absolute;
+  width: 137px;
+  height: 118px;
+  top: 0;
+  left: 36px;
+  object-fit: cover;
+}
+
+.insight .image {
+  width: 100px;
+  height: 100px;
+  top: 5px;
+  left: 1321px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.insight .line {
+  position: absolute;
+  width: 1440px;
+  height: 16px;
+  top: 856px;
+  left: 0;
+}
+
+.insight .img {
+  width: 1268px;
+  height: 805px;
+  top: 1005px;
+  left: 101px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.insight .text-wrapper {
+  position: absolute;
+  width: 332px;
+  height: 68px;
+  top: 1811px;
+  left: 554px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0.8px;
+  line-height: 33.6px;
+}
+
+.insight .overlap {
+  position: absolute;
+  width: 2321px;
+  height: 662px;
+  top: 160px;
+  left: -123px;
+}
+
+.insight .frame-2 {
+  position: absolute;
+  width: 2162px;
+  height: 580px;
+  top: 82px;
+  left: 159px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.insight .overlap-group {
+  position: absolute;
+  width: 1003px;
+  height: 535px;
+  top: 22px;
+  left: 26px;
+  background-color: #fdfdfdb0;
+  border-radius: 40px;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 23px 22px 4px #00000066;
+}
+
+.insight .image-2 {
+  width: 33px;
+  height: 28px;
+  top: 424px;
+  left: 725px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.insight .image-3 {
+  width: 201px;
+  height: 236px;
+  top: 89px;
+  left: 733px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.insight .frame-3 {
+  position: absolute;
+  width: 651px;
+  height: 468px;
+  top: 45px;
+  left: 22px;
+}
+
+.insight .village {
+  position: absolute;
+  width: 543px;
+  top: 29px;
+  left: 108px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: -0.18px;
+  line-height: 30.2px;
+}
+
+.insight .username-about-know {
+  position: absolute;
+  height: 264px;
+  top: 128px;
+  left: 28px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 28px;
+  letter-spacing: 0.56px;
+  line-height: 23.5px;
+}
+
+.insight .BUTTON {
+  display: flex;
+  width: 152px;
+  height: 45px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 13px 9px 6px 25px;
+  position: absolute;
+  top: 415px;
+  left: 758px;
+  background-color: #01c1a0;
+  border-radius: 25px;
+  border: 2px solid;
+  border-color: #ffffff;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.insight .button {
+  position: relative;
+  width: fit-content;
+  margin-top: -2px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: 16.8px;
+  white-space: nowrap;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.insight .overlap-2 {
+  position: absolute;
+  width: 1003px;
+  height: 535px;
+  top: 22px;
+  left: 1089px;
+  background-color: #fdfdfdb0;
+  border-radius: 40px;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 23px 22px 4px #00000066;
+}
+
+.insight .overlap-group-2 {
+  position: absolute;
+  width: 278px;
+  height: 264px;
+  top: 128px;
+  left: 28px;
+}
+
+.insight .p {
+  position: absolute;
+  height: 264px;
+  top: 0;
+  left: 0;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 28px;
+  letter-spacing: 0.56px;
+  line-height: 23.5px;
+}
+
+.insight .image-4 {
+  width: 78px;
+  height: 75px;
+  top: 45px;
+  left: 185px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.insight .image-5 {
+  position: absolute;
+  width: 33px;
+  height: 28px;
+  top: -4475px;
+  left: -1675px;
+  object-fit: cover;
+}
+
+.insight .image-6 {
+  position: absolute;
+  width: 201px;
+  height: 236px;
+  top: -4810px;
+  left: -1667px;
+  object-fit: cover;
+}
+
+.insight .text-wrapper-2 {
+  position: absolute;
+  width: 756px;
+  top: 0;
+  left: 0;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.insight .overlap-3 {
+  position: absolute;
+  width: 756px;
+  height: 85px;
+  top: 901px;
+  left: -173px;
+}
+
+.insight .group {
+  position: absolute;
+  width: 202px;
+  height: 54px;
+  top: 17px;
+  left: 535px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.insight .drop-down {
+  position: absolute;
+  width: 125px;
+  height: 38px;
+  top: 5px;
+  left: 12px;
+  font-family: "Lato", Helvetica;
+  font-weight: 500;
+  color: #090000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.insight .image-7 {
+  position: absolute;
+  width: 32px;
+  height: 24px;
+  top: 13px;
+  left: 160px;
+  object-fit: cover;
+}
+
+.insight .overlap-4 {
+  position: absolute;
+  width: 1483px;
+  height: 85px;
+  top: 1923px;
+  left: -127px;
+}
+
+.insight .text-wrapper-3 {
+  position: absolute;
+  width: 756px;
+  top: 0;
+  left: 727px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.insight .group-2 {
+  position: absolute;
+  width: 596px;
+  height: 275px;
+  top: 2042px;
+  left: 101px;
+}
+
+.insight .group-3 {
+  position: absolute;
+  width: 596px;
+  height: 121px;
+  top: 0;
+  left: 0;
+}
+
+.insight .rectangle {
+  width: 596px;
+  top: 0;
+  position: absolute;
+  height: 23px;
+  left: 0;
+  background-color: #d9d9d9;
+  border-radius: 20px;
+}
+
+.insight .rectangle-2 {
+  width: 417px;
+  top: 49px;
+  position: absolute;
+  height: 23px;
+  left: 0;
+  background-color: #d9d9d9;
+  border-radius: 20px;
+}
+
+.insight .rectangle-3 {
+  width: 550px;
+  top: 98px;
+  position: absolute;
+  height: 23px;
+  left: 0;
+  background-color: #d9d9d9;
+  border-radius: 20px;
+}
+
+.insight .group-4 {
+  position: absolute;
+  width: 596px;
+  height: 121px;
+  top: 154px;
+  left: 0;
+}
+
+.insight .group-5 {
+  position: absolute;
+  width: 596px;
+  height: 275px;
+  top: 2042px;
+  left: 805px;
+}
+
+/* Add styling for the contact button */
+.contact-button {
+  display: block;
+  margin-top: 100px; /* Adjust the margin as needed */
+  background-color: #3498db; /* Default background color */
+  color: #fff; /* Default text color */
+  padding: 10px 20px; /* Adjust padding as needed */
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Add transition for color change */
+
+  /* Style for hover state */
+}
+
+.contact-button:hover {
+  background-color: green; /* Change background color on hover */
+}
+
+.group {
+  text-align: center; 
+}
+
+.dropdown {
+  font-size: 25px; 
+  padding: 8px; 
+  margin-left: -28px;
+  border: none;
+  -webkit-appearance: none; /* Remove default styles (for some Webkit browsers) */
+    -moz-appearance: none; /* Remove default styles (for some Firefox browsers) */
+    appearance: none; /* Remove default styles (for some browsers) */
+    background: url("your-custom-icon.png") no-repeat right center; /* Add a custom icon as a background image */
+    cursor: pointer;
+}
+
+.dropdown {
+  font-size: 25px; 
+  padding: 8px; 
+  margin-left: -28px;
+  border: none;
+  -webkit-appearance: none; /* Remove default styles (for some Webkit browsers) */
+    -moz-appearance: none; /* Remove default styles (for some Firefox browsers) */
+    appearance: none; /* Remove default styles (for some browsers) */
+    background: url("your-custom-icon.png") no-repeat right center; /* Add a custom icon as a background image */
+    cursor: pointer;
+}
+
+
+.contact-button{
+  position: fixed;
+  top:150px;
+  left:100;
+}
